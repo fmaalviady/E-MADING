@@ -1,0 +1,19 @@
+.scrollUp {
+    background-color: #229954 !important;
+    border-color: #229954 !important;
+}
+
+.scrollUp:hover {
+    background-color: #1e7e34 !important;
+    border-color: #1e7e34 !important;
+}
+
+#scrollUp {
+    background-color: #229954 !important;
+    border-color: #229954 !important;
+}
+
+#scrollUp:hover {
+    background-color: #1e7e34 !important;
+    border-color: #1e7e34 !important;
+}

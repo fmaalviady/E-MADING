@@ -1,0 +1,6 @@
+                        <div class="weekly2-single">
+                                            <div class="weekly2-img">
+                                                <img src="assets/img/gallery/weeklyNews1.png" alt="">
+                                            </div>
+                                            <div class="weekly2-caption">
+                                                <h
